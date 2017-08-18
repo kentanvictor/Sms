@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sms</string>
+    <string name="number">請輸入手機號</string>
+    <string name="content">請輸入短信發送的內容</string>
+    <string name="button">發 送</string>
+    <string name="success">發送成功</string>
+</resources>
